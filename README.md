@@ -2,4 +2,4 @@
 
 I'm a backend developer.
 
-🔗 [My Resume](https://www.notion.so/1fc743e5368380379919df361c2c0411)
+🔗 [My Resume](https://docs.google.com/document/d/e/2PACX-1vTCyi-jHMUXhwW6Z9f1BogJus6elR_EjN5DCSAl8VUHaHikHxlvgK2bvvReikWgi16CeHGx7Bwj3wNH/pub)

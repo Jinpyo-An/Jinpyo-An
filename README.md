@@ -2,4 +2,4 @@
 
 I'm a backend developer.
 
-🔗 [My Resume](docs/resume.pdf)
+🔗 [My Resume](https://raw.githubusercontent.com/Jinpyo-An/Jinpyo-An/main/docs/resume.pdf)
